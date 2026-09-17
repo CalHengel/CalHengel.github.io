@@ -16,7 +16,7 @@ In this assignment, we are programming the LilyPad USB Plus to turn on the LEDs 
 
 ## Picture of LilyPad USB Plus
 
-![LilyPad USB Plus with LED 5 turned on]({{ 'calhengel.github.io/assets/img/blinky-if.jpeg' | relative_url }})
+![LilyPad USB Plus with LED 5 turned on](calhengel.github.io/assets/img/blinky-if.jpeg)
 
 ## Tip/Hint to Give Past Self on This Deliverable
 
