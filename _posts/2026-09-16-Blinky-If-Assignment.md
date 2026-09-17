@@ -20,4 +20,4 @@ In this assignment, we are programming the LilyPad USB Plus to turn on the LEDs 
 
 ## Tip/Hint to Give Past Self on This Deliverable
 
-A tip I would give my past self while completing this deliverable is to go one LED at a time befote trying to do all 4 at once. This way it will be easier to find mistakes in the pin numbers and If/Else statements.
+A tip I would give my past self while completing this deliverable is to go one LED at a time before trying to do all 4 at once. This way it will be easier to find mistakes in the pin numbers and If/Else statements.
